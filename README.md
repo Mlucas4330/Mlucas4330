@@ -7,7 +7,7 @@
 ![HTML5](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E&color=3d3919)
-##
+
 ### 💻 I'm actually looking for my first job experience in web fullstack development
 - I'm 18y
 - My birthday is on 16th june
@@ -18,7 +18,7 @@
 - Play guitar 🎸
 - and code 💻
 
-## Contact me
+### Contact me
 
 <p align="left">
   <a href="#" alt="Gmail">
