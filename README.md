@@ -8,9 +8,11 @@
 - 🌱 I’m currently learning web and mobile development
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/ricardo-montoya-3653a3174">LinkedIn</a>, <a href="https://www.ricardomontoya.dev">Website</a>
 
+<div align="center">
 ![HTML5](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E&color=3d3919)
+</div>
 
 [![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=mlucas4330&hide=html&layout=compact=true&theme=radical)](https://github.com/mlucas4330/)
 
