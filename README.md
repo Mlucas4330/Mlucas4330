@@ -18,7 +18,7 @@
 - Play guitar 🎸
 - and code 💻
 
-### Contact me
+### 🤝 Connect with me:
 
 <p align="left">
   <a href="#" alt="Gmail">
