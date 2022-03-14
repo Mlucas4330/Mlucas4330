@@ -13,9 +13,9 @@
 - My birthday is on 16th june
 
 ### 💭 My hobbies
-- Play games (especially League of Legends and CS:GO) 🎮
-- Manga, Anime and films🎬
-- Play instruments 🎸
+- Play games (especially League of Legends and Sekiro) 🎮
+- films🎬
+- Play guitar 🎸
 - and code 💻
 
 <p align="left">
