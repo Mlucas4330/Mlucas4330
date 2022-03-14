@@ -21,21 +21,21 @@
 
 [![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=mlucas4330&hide=html&layout=compact=true&theme=radical)](https://github.com/mlucas4330/)
 
-<div align="center">
+<div align="left">
   <a href="https://open.spotify.com/user/6s6pbtefezpookh8gwnkko15v">
     <img src="https://readme-spotify-tingz.vercel.app/api/now-playing">
   </a>
 </div>
 
 <!--
-<div align="center">
+<div align="left">
   <a href="https://open.spotify.com/user/6s6pbtefezpookh8gwnkko15v">
     <img src="https://spotify-readme-theta-virid.vercel.app/api?scan=true&theme=dark" width="240px">
   </a>
 </div>
 -->
 
-<p align="center">
+<p align="left">
   <a href="#" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAIL" /></a>
 
