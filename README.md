@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 ```kotlin
-object **SEU NOME** {
- val name = "SEU NOME COMPLETO"
+object **Lucas** {
+ val name = "Lucas Medeiros"
  val acknowledgements = "ÁREA DE CONHECIMENTO"
  
  val primarySkillset = "ALGUMAS HABILIDADES"
