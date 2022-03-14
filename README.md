@@ -4,7 +4,9 @@
 </p>
 
 
-
+🔭 I’m currently working at Orpen
+🌱 I’m currently learning web and mobile development
+📫 How to reach me: LinkedIn, Website
 
 ```kotlin
 object **Lucas** {
