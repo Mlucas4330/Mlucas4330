@@ -18,9 +18,6 @@
 - Play instruments 🎸
 - and code 💻
 
-
-[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=mlucas4330&hide=html&layout=compact=true&theme=radical)](https://github.com/mlucas4330/)
-
 <p align="left">
   <a href="#" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAIL" /></a>
