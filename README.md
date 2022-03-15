@@ -21,12 +21,5 @@
 
 ### 🤝 Connect with me:
 
-<p align="left">
-   
-  ![Gmail](https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white)](mailto:mlucas4330@gmail.com)
-
-  <a href="https://www.linkedin.com/in/lucas-medeiros-2b77591ab" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-medeiros-2b77591ab" /></a>
-
-  <a href="https://api.whatsapp.com/send?phone=5551989431913&text=Ol%C3%A1!" alt="WhatsApp">
-  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5551989431913&text=Ol%C3%A1%2C%20Sou%20o%20Lucas%20Medeiros!"/></a>
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-medeiros-2b77591ab/)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:mlucas4330@gmail.com)
