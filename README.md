@@ -23,5 +23,3 @@
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-medeiros-2b77591ab/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:mlucas4330@gmail.com)
-
-[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=mlucas4330&hide=html&layout=compact=true&theme=default)](https://github.com/Mlucas4330/)
