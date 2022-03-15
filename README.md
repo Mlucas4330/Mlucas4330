@@ -23,7 +23,7 @@
 
 <p align="left">
    
-  ![Gmail](https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mlucas4330@gmail.com)](mailto:eliaslinkedin17@gmail.com)
+  ![Gmail](https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white)](mailto:mlucas4330@gmail.com)
 
   <a href="https://www.linkedin.com/in/lucas-medeiros-2b77591ab" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-medeiros-2b77591ab" /></a>
