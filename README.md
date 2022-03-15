@@ -11,7 +11,7 @@
 ### 💻 I'm actually looking for my first job experience in web fullstack development
 - I'm 18y
 - My birthday is on 16th june
-
+- Brazil 🇧🇷
 ### 💭 My hobbies
 - Play games (especially League of Legends and Sekiro) 🎮
 - films🎬
