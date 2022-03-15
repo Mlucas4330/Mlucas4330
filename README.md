@@ -17,7 +17,7 @@
 - films🎬
 - Play guitar 🎸
 - and code 💻
-- Gym
+- Gym 💪
 
 ### 🤝 Connect with me:
 
