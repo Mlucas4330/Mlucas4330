@@ -28,7 +28,7 @@
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
 </div>
 
-### 💻 I'm actually looking for my first job experience in web fullstack development
+### 💻 I'm actually looking for my first job experience in fullstack web development
 - I'm 19y
 - My birthday is on 16th june
 - Brazil
