@@ -23,6 +23,7 @@
 <div>
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
+  <img src="https://img.shields.io/badge/PostgreSQL-4EA94B?style=for-the-badge&logo=postgresql&logoColor=blue">
 </div>
 
 ### ✔️ Tools
@@ -31,7 +32,7 @@
 <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white">
 </div>
 
-### 💻 I'm actually looking for my first job experience in fullstack web development
+### 💻 About me
 - I'm 19y
 - My birthday is on 16th june
 - Brazil
@@ -39,7 +40,7 @@
 - Play games (especially League of Legends and Sekiro) 🎮
 - films🎬
 - Play guitar 🎸
-- and code 💻
+- code 💻
 - Gym 💪
 
 ### 🤝 Connect with me:
