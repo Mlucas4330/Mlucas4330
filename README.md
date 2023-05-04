@@ -10,8 +10,8 @@
 ![CSS3](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Ruby](https://img.shields.io/badge/Ruby-FF0000?style=for-the-badge&logo=ruby&logoColor=red)
-![TypeScript](https://img.shields.io/badge/TypeScript%20-%231572B6.svg?style=for-the-badge&logo=typescript&logoColor=blue)
+![Ruby](https://img.shields.io/badge/Ruby-FF0000?style=for-the-badge&logo=ruby&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript%20-%231572B6.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
 ### ✔️ Frameworks
 <div>
