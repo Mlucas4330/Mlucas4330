@@ -5,7 +5,7 @@
 
 ### ✔️ 3 years of experience
 
-### ✔️ I'm currently working at FazComex
+### ✔️ I'm currently working at Growdev
 
 ### ✔️ Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
