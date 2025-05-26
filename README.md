@@ -11,7 +11,6 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Ruby](https://img.shields.io/badge/Ruby-FF0000?style=for-the-badge&logo=ruby&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript%20-%231572B6.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
 ### ✔️ Frameworks
