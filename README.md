@@ -12,6 +12,7 @@
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript%20-%231572B6.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![GO](https://img.shields.io/badge/Go%20-%231572B6.svg?style=for-the-badge&logo=go&logoColor=white)
 
 ### ✔️ Frameworks
 <div>
@@ -24,7 +25,7 @@
 <div>
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
-  <img src="https://img.shields.io/badge/PostgreSQL-00000F?style=for-the-badge&logo=postgresql&logoColor=white">
+<img src="https://img.shields.io/badge/PostgreSQL-00000F?style=for-the-badge&logo=postgresql&logoColor=white">
 </div>
 
 ### ✔️ Tools
