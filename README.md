@@ -5,7 +5,7 @@
 
 ### ✔️ 4 years of experience
 
-### ✔️ I'm currently working at Growdev
+### ✔️ I'm currently working at Legnet
 
 ### ✔️ Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -35,14 +35,14 @@
 </div>
 
 ### 💻 About me
-- I'm 21y
+- I'm 22y
 - My birthday is on 16th june
 - Brazil
 ### 💭 My hobbies
 - Play games (especially League of Legends and Sekiro) 🎮
-- films🎬
+- Films🎬
 - Play guitar 🎸
-- code 💻
+- Code 💻
 - Gym 💪
 
 ### 🤝 Connect with me:
