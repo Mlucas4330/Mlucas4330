@@ -1,7 +1,10 @@
 <h1 align="center">Hi , I'm Lucas Medeiros <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p>
-Engenheiro de software com 4 anos de experiência, com foco atual em Go, microsserviços e mensageria, conhecimento que aplico na prática no projeto "Orderflow Pro".
-Minha experiência inclui a reestruturação de sistemas legados e a garantia da qualidade de código através de code reviews, entregando soluções de alto impacto para clientes como Coca-Cola, Volvo e Tigre.
+Desenvolvedor Full Stack com 4 anos de experiência, especializado em PHP (CodeIgniter, CakePHP e Laravel), Golang, front-end com jQuery, React e Vue, bancos de dados PostgreSQL e MySQL, e containerização com Docker.
+
+Atuei em projetos de alto impacto para clientes como Coca-Cola, Volvo e Tigre, entregando soluções robustas e escaláveis.
+
+Além das entregas técnicas, sou proativo e contribuo ativamente para o crescimento da equipe, apoiando colegas, compartilhando conhecimento e promovendo boas práticas de desenvolvimento.
 </p>
 
 ### ✔️ Languages
