@@ -1,15 +1,9 @@
 <h1 align="center">Hi , I'm Lucas Medeiros <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<p>
 
-- Desenvolvedor Full Stack com 4 anos de experiência.
-
-- Atuo em projetos de alto impacto para clientes como Coca-Cola, Volvo e Tigre, entregando soluções robustas e escaláveis.
-
-- Além das entregas técnicas, sou proativo e contribuo ativamente para o crescimento da equipe, apoiando colegas, compartilhando conhecimento e promovendo boas práticas de desenvolvimento.
-
-- Tech Stack: PHP, CodeIgniter, CakePHP, Laravel, Golang, jQuery, React, Vue, PostgreSQL, MySQL e Docker.
-
-</p>
+<p>Solving problems has always been part of who I am, and programming became the perfect way to channel
+that passion. I’m currently a software developer with four years of experience, motivated by challenges and
+a fast learner, who thrives in collaborative environments that value knowledge-sharing and continuous
+growth.</p>
 
 ### ✔️ Languages
 ![GO](https://img.shields.io/badge/Go%20-%231572B6.svg?style=for-the-badge&logo=go&logoColor=white)
