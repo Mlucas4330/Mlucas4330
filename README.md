@@ -1,7 +1,7 @@
 <h1 align="center">Hi , I'm Lucas Medeiros <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p>Solving problems has always been part of who I am, and programming became the perfect way to channel
-that passion. I’m currently a software developer with four years of experience, motivated by challenges and
+that passion. I'm currently a software developer with four years of experience, motivated by challenges and
 a fast learner, who thrives in collaborative environments that value knowledge-sharing and continuous
 growth.</p>
 
