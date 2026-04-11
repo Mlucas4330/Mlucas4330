@@ -1,18 +1,6 @@
 <h1 align="center">Hi , I'm Lucas Medeiros <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<p>Full Stack Software Engineer | 3+ years | Front-end and Microservices
-
-Build scalable web applications using ReactJS, JavaScript (ES6+), TypeScript, React Hooks, Redux, and Tailwind.
-
-Develop backend services and microservices with Golang and PHP, integrating APIs and handling data modeling with relational and NoSQL databases.
-
-Contribute to component design, code architecture, and performance optimization, following Clean Code, SOLID, DRY, KISS, and YAGNI principles.
-
-Work with unit, integration, and end-to-end testing, static code analysis, and Docker to ensure reliability and maintainability.
-
-Deliver solutions for over 100 enterprise clients, supporting high-traffic and complex applications.
-
-Apply AI-assisted development to speed up delivery, optimize workflows, and reduce manual effort, enabling features to be shipped 3x faster without compromising quality or architecture.</p>
+<p>Front-end engineer with almost 4 years building production React applications for enterprise clients. I specialize in component architecture, performance optimization, and translating complex user flows into clean, maintainable interfaces, having shipped solutions used by 100+ companies across compliance, trade, and healthcare sectors.</p>
 
 ### ✔️ Languages
 ![GO](https://img.shields.io/badge/Go%20-%231572B6.svg?style=for-the-badge&logo=go&logoColor=white)
