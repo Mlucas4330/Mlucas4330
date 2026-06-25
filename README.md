@@ -25,7 +25,7 @@
 ### 🛠 Technologies & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,ts,js,go,php,postgres,git,aws" />
+  <img src="https://skillicons.dev/icons?i=react,ts,js,postgres,git,aws" />
 </p>
 
 ### 🤝 Connect with me
