@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">
-  Front-end engineer with ~4 years of experience building production-grade React applications for enterprise clients.
+  Software engineer with ~4 years of experience building production-grade React applications for enterprise clients.
 </p>
 
 <p align="center">
